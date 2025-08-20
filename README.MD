@@ -26,25 +26,25 @@ Desenvolvimento
 ```bash
 
 npm run start:dev
-``
+```
 Desenvolvimento com Watch
-``bash
+```bash
 
 npm run start:watch
-``
+```
 Produção (build + execução)
-``bash
+```bash
 
 npm run start:dist
-``
+```
 📂 Estrutura básica do projeto
-``bash
+```bash
 
 src/
  ├── server.ts      # Ponto de entrada da aplicação
  ├── routes/        # Definição das rotas
  └── controllers/   # Lógica das rotas
-``
+```
 🔧 Funcionalidades
 Listar jogadores
 
