@@ -23,24 +23,28 @@ npm install
 ```
 ▶️ Executando o projeto
 Desenvolvimento
-bash
-Copiar código
+```bash
+
 npm run start:dev
+``
 Desenvolvimento com Watch
-bash
-Copiar código
+``bash
+
 npm run start:watch
+``
 Produção (build + execução)
-bash
-Copiar código
+``bash
+
 npm run start:dist
+``
 📂 Estrutura básica do projeto
-bash
-Copiar código
+``bash
+
 src/
  ├── server.ts      # Ponto de entrada da aplicação
  ├── routes/        # Definição das rotas
  └── controllers/   # Lógica das rotas
+``
 🔧 Funcionalidades
 Listar jogadores
 
