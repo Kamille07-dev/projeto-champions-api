@@ -20,6 +20,7 @@ Clone o repositório e instale as dependências:
 git clone <url-do-repositorio>
 cd champions-api
 npm install
+```
 ▶️ Executando o projeto
 Desenvolvimento
 bash
